@@ -6,6 +6,6 @@
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
-    "express": "1.0.0 - 5.999.999"
+    "express": "*"
   }
 }
