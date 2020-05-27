@@ -5,7 +5,4 @@
   "main": "app.js",
   "author": "Red Hat Training",
   "license": "ASL",
-  "dependencies": {
-    "express": "*"
-  }
 }
